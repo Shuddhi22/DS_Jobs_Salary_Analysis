@@ -1,6 +1,6 @@
 # DS_Jobs_Salary_Analysis
 This project analyzes data science job salaries across different job titles, experience levels, company sizes, locations, and work arrangements. It includes data preprocessing, exploratory data analysis (EDA), and machine learning models to predict salaries in USD..
-JSVYJSVDCUVDCUVDJC
+
 
 | **Column Name**         | **Description**                                                                 |
 | ----------------------- | ------------------------------------------------------------------------------- |
